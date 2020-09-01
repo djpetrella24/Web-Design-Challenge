@@ -1,0 +1,15 @@
+#tempphoto{
+    float: left;
+    height: 200px;
+    width: 200px;
+}
+
+#vizphoto{
+    height: 200px;
+    width: 200px;
+}
+
+#latitude{
+    color: whitesmoke;
+    background: deepskyblue;
+}
