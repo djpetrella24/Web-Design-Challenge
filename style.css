@@ -9,7 +9,23 @@
     width: 200px;
 }
 
-#latitude{
-    color: whitesmoke;
-    background: deepskyblue;
+h1 {
+    text-align: center;
+    font-style: italic;
+    color: red;
+    padding: 20px 0;
+}
+
+h4{
+    font-style: italic;
+    color: red;
+}
+
+.container{
+    margin: 0 auto;
+    width: 80%;
+}
+
+.row{
+    text-align: center;
 }
